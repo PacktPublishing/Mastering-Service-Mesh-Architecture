@@ -2,7 +2,7 @@
 
 ## Build Environment
 
-In order to  ake learning easy and simple while going through `Mastering Servuce Mesh Architecture` book, it is recommended that you have a development environment ready to practice.
+In order to make learning easy and simple while going through `Mastering Servuce Mesh Architecture` book, it is recommended that you have a development environment ready to practice.
 
 Consult this guide to build your development environment using a single VM running on either  Windows Laptop or Apple MacBook: [https://github.com/servicemeshistio/icpvm](https://github.com/servicemeshistio/icpvm). This environment is recommended and suitable for most developers.
 
