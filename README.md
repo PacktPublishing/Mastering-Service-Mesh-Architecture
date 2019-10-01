@@ -2,8 +2,8 @@
 
 ## Watch Asciinema cast for Chapters
 
-[Chapter 06 - Building your own Kubernetes environment](asciinema/)
-[Chapter 08 - Install Bookinfo Demo application](asciinema/)
+* [Chapter 06 - Building your own Kubernetes environment](asciinema#chapter-06---building-your-own-kubernetes-environment)
+* [Chapter 08 - Install Bookinfo Demo application](asciinema/#chapter-08---install-bookinfo-demo-application)
 
 
 ## Build Environment
