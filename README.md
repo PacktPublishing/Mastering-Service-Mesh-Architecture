@@ -9,3 +9,7 @@
 ## Build Environment
 
 Chapter - 6 : [Building Your Own Kubernetes](https://github.com/servicemeshbook/byok)
+
+## Install Istio
+
+Chapter - 9 : [Install Istio](https://github.com/servicemeshbook/istio)
