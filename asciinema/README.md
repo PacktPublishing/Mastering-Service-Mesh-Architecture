@@ -11,3 +11,7 @@
 ## Chapter 09 - Install Istio
 
 [![asciicast](https://asciinema.org/a/271945.svg)](https://asciinema.org/a/271945)
+
+## Chapter 10 - Istio - Traffic Management
+
+[![asciicast](https://asciinema.org/a/272185.svg)](https://asciinema.org/a/272185)
