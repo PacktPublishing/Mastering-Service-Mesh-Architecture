@@ -15,3 +15,26 @@
 ## Chapter 10 - Istio - Traffic Management
 
 [![asciicast](https://asciinema.org/a/272185.svg)](https://asciinema.org/a/272185)
+
+## Chapter 11 - Istio - Security
+
+[![asciicast](https://asciinema.org/a/274085.svg)](https://asciinema.org/a/274085)
+
+## Chapter 12 - Istio - Policy
+
+## Chapter 13 - Istio - Telemetry
+
+## Chapter 15 - Linkerd - Install
+
+## Chapter 16 - Linkerd - Reliability
+
+## Chapter 17 - Linkerd - Security
+
+## Chapter 18 - Linkerd - Visibility
+
+## Chapter 20 - Consul - Install
+
+## Chapter 21 - Consul - Service Discovery
+
+## Chapter 22 - Consul - Traffic Management
+
