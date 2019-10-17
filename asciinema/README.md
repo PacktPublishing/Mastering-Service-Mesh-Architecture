@@ -22,13 +22,16 @@
 
 ## Chapter 12 - Istio - Policy
 
-[![asciicast](https://asciinema.org/a/274741.svg)](https://asciinema.org/a/274741)
+[![asciicast](https://asciinema.org/a/274742.svg)](https://asciinema.org/a/274742)
+
 
 ## Chapter 13 - Istio - Telemetry
 
-[![asciicast](https://asciinema.org/a/274742.svg)](https://asciinema.org/a/274742)
+[![asciicast](https://asciinema.org/a/274741.svg)](https://asciinema.org/a/274741)
 
 ## Chapter 15 - Linkerd - Install
+
+[![asciicast](https://asciinema.org/a/274840.svg)](https://asciinema.org/a/274840)
 
 ## Chapter 16 - Linkerd - Reliability
 
