@@ -4,5 +4,6 @@
 **/.Trashes
 **/Icon?
 **/Thumbs.db
-./asciinema/config
-./asciinema/asciinema
+/asciinema/config
+/asciinema/asciinema
+/asciinema/*.orig
