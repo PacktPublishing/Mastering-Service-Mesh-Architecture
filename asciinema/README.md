@@ -34,14 +34,19 @@
 [![asciicast](https://asciinema.org/a/274840.svg)](https://asciinema.org/a/274840)
 
 ## Chapter 16 - Linkerd - Reliability
+[![asciicast](https://asciinema.org/a/275479.svg)](https://asciinema.org/a/275479)
+
 
 ## Chapter 17 - Linkerd - Security
 
 ## Chapter 18 - Linkerd - Visibility
 
 ## Chapter 20 - Consul - Install
+[![asciicast](https://asciinema.org/a/275098.svg)](https://asciinema.org/a/275098)
 
 ## Chapter 21 - Consul - Service Discovery
+[![asciicast](https://asciinema.org/a/275154.svg)](https://asciinema.org/a/275154)
 
 ## Chapter 22 - Consul - Traffic Management
+[![asciicast](https://asciinema.org/a/275423.svg)](https://asciinema.org/a/275423)
 
