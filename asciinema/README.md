@@ -31,15 +31,18 @@
 
 ## Chapter 15 - Linkerd - Install
 
-[![asciicast](https://asciinema.org/a/274840.svg)](https://asciinema.org/a/274840)
+[![asciicast](https://asciinema.org/a/275690.svg)](https://asciinema.org/a/275690)
 
 ## Chapter 16 - Linkerd - Reliability
 [![asciicast](https://asciinema.org/a/275479.svg)](https://asciinema.org/a/275479)
 
 
 ## Chapter 17 - Linkerd - Security
+[![asciicast](https://asciinema.org/a/275690.svg)](https://asciinema.org/a/275690)
 
 ## Chapter 18 - Linkerd - Visibility
+[![asciicast](https://asciinema.org/a/275765.svg)](https://asciinema.org/a/275765)
+
 
 ## Chapter 20 - Consul - Install
 [![asciicast](https://asciinema.org/a/275098.svg)](https://asciinema.org/a/275098)
